@@ -1,8 +1,0 @@
-﻿/* Sticky Footer */
-html, body, body >form {
-	height: 100%;
-}
-.sfSectionwrap {
-	min-height: 100%;
-}
-
